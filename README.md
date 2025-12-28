@@ -100,4 +100,4 @@ spaced-repetition-flashcards/
 
 ## License
 
-MIT License - see LICENSE file
+MIT
