@@ -65,13 +65,13 @@ In the **review phase**, intervals grow exponentially based on the ease factor (
 
 ## Requirements
 
-**Python 3.8 - 3.11** (cmu-graphics does not support Python 3.12+)
+**Python 3.10 - 3.13 as of 12/2025**
 
 ```bash
 pip install cmu-graphics
 ```
 
-> **Note:** This project uses CMU Graphics, an educational library developed by Carnegie Mellon University. The library is no longer actively maintained and has limited Python version support. If you encounter issues, try using Python 3.10 or 3.11.
+> **Note:** This project uses CMU Graphics, an educational library developed by Carnegie Mellon University. The library is no longer actively maintained and has limited Python version support. If you encounter issues, check their website at CMU Academy to verify the supported versions of Python.
 
 ## Usage
 
