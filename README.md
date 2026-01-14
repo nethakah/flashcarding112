@@ -76,7 +76,7 @@ pip install cmu-graphics
 ## Usage
 
 ```bash
-python flashcarding112.py
+python3 main.py
 ```
 
 Data is automatically saved to `flashcard_data.json` in the same directory. No manual save/load required.
