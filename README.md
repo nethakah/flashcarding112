@@ -85,7 +85,7 @@ Data is automatically saved to `flashcard_data.json` in the same directory. No m
 
 ```
 spaced-repetition-flashcards/
-├── flashcarding112.py    # Main application
+├── main.py    # Main application
 ├── flashcard_data.json   # Auto-generated save file
 ├── requirements.txt      # Dependencies
 ├── README.md
